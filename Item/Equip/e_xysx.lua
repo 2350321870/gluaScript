@@ -1,16 +1,16 @@
-ITEMINFO = {
+ï»¿ITEMINFO = {
 	list_icon = 28,
 	type = "shoes",
 	wield_position = 6,
 	is_bag_item = 1,
-	name = "ĞùÔ¯ÉñÂÄ",
+	name = "è½©è¾•ç¥å±¥",
 	["required/level"] = 35,
 	BindType = "Used_Bind",
 	dresstype = "801",
 	dresscolor = 1,
 	dex = 480,
-	str=175,--Á¦Á¿
-	int=175,--ÖÇ»Û
+	str=175,--åŠ›é‡
+	int=175,--æ™ºæ…§
 	max_hp = 5000,
 	value = 5250,
 }

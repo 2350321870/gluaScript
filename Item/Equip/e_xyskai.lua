@@ -1,10 +1,10 @@
-ITEMINFO = {
+ï»¿ITEMINFO = {
 	icon = 415,
 	list_icon = 26,
 	type = "clothes",
 	wield_position = 4,
 	is_bag_item = 1,
-	name = "ÐùÔ¯Éñîø",
+	name = "è½©è¾•ç¥žé“ ",
 	["required/level"] = 55,
 	BindType = "ImmediatelyBind",
 	dresstype = "801",

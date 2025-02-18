@@ -1,9 +1,9 @@
-ITEMINFO = {
+ï»¿ITEMINFO = {
 	list_icon = 30,
 	type = "earring",
 	wield_position = 8,
 	is_bag_item = 1,
-	name = "ĞùÔ¯Éñ×¹",
+	name = "è½©è¾•ç¥å ",
 	["required/level"] = 35,
 	BindType = "Used_Bind",
 	dresstype = "801",
@@ -11,7 +11,7 @@ ITEMINFO = {
 	max_hp = 5000,
 	str=480,
 	dex = 70,
-	int=70,--ÖÇ»Û
+	int=70,--æ™ºæ…§
 	value = 5250,
 }
 
