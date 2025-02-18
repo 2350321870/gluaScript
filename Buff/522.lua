@@ -1,0 +1,15 @@
+BUFFINFO={
+id=522,
+icon=64,
+name="眩晕",
+shoot=100,
+victimsay="您已经被@A打得头晕目眩了.",
+mesay="您已经成功打得@B头晕目眩.",
+control=0,
+dieclear=1,
+}
+BUFFEFFECT={
+time_last="2|2|3|3|4|4|5|5|6",
+immune="431|432|421|424|426|427|443|444",
+relieve="421|424",
+}

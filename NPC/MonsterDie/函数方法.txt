@@ -1,0 +1,43 @@
+"某" 表示该参数是 字符串
+某   则是 数字  例如 LuaAdd("key",1)  key是个字符串  1就表示要填数字
+
+int = LuaQuery("key")  --int 是数字类型的 返回的是key的数值
+char = LuaQueryStr("key") -- char 是字符串类型的 返回的是key的字符内容
+LuaSet("key",1)--把 key 的数值 设置为1
+LuaSet("key","字符") --把key的内容设置为 "字符"
+LuaGive("物品ID")--给玩家某物品
+LuaAdd("key",1)--把key的数值 增加1
+增加LuaDel("计数器字符串")函数。
+ret =LuaRandom(10)-- ret有可能是0-9
+LuaSay("文字内容")--向玩家发弹出式的对话内容 然后用LuaSendMenu() 给玩家 可以多次LuaSay("") 然后再LuaSendMenu()
+LuaShowNotify("内容")  --弹出框内容
+LuaShowNotify("内容",1)  --滚动内容
+LuaItemCount("物品ID")
+ret = LuaItemCount("物品ID")--  返回玩家该物品的数量
+SetDirection("")
+AddLog("任务名称",任务ID)
+DelLog(任务编号)  例如T123  就是 DelLog(123)
+SendNPCAnima("NPC ID","动画数据")
+DelItem("物品ID",数量)
+AddMenuItem("任务标题","选项ID","标题名称")  前两个是必须的
+AddTopSayMenuItem("任务标题","选项ID") 这个是在 answer=="ask" 下用的
+CheckHotKey("102")  意思就是检查玩家有没有102号的技能设置在快捷键上  "0|0|102"这样是检查1号键上的技能是否102号技能
+UpdateTopSay("头顶对白") 更新该NPC的头顶对白
+UpdateMenu() 更新NPC answer="ask"的菜单
+SendCommand("命令字符") 发送命令 "call=界面操作" "MOVE=动画数据"
+DoBuy() NPC买卖函数
+UpdateNPCMenu("npc id") 例如UpdateNPCMenu("lieren") 更新NPC的选项  UpdateNPCMenu()整张地图的NPC选项
+DoBuy() 调用买卖功能
+DoTalk("answer") 做一次对话
+GetDayOfWeek()返回当前星期几 是个 数字值
+GetCurrentDay()返回当前日期 例如"2008-6-24" 是字符串
+UpdateNPCName("@2") 更新当前对话的NPC的名字图案
+TeamCount()返回当前玩家的队友数目 0代表是没有组队
+GetCurrentTime() 返回当前的系统的秒数。 数字能运算
+MapName() 返回地图的base_name 例如"lu_dongmenwai"
+FriendCount() 返回好友的数量
+EquipInfo(装备位) 返回装备位的装备名  例: ename = EquipInfo(1) 返回装备位1的装备名
+GetCurrentHour()  返回当前时间的钟点数 注意服务器要是24小时制的才能准确
+
+如果需要其他功能的函数请与李树恩交流
+

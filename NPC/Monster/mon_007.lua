@@ -1,0 +1,26 @@
+NPCINFO = {
+	name = "金蛊",
+	name_color = "CEFFCE",
+	serial = "007",
+	level = 10,
+	hp =500,
+	attack =10,
+	chase_dis = 80,
+	att_dis = 25,
+	move_speed = 12,
+	att_frep = 2500,
+	win_exp = 450,
+	rand = 1,
+	base_rand=7,
+	gold_base = 50,
+	win_money = 60,
+	item_base = 0,
+	item = "4|5|1|8|8|2|4|0|0|3|5|0|4|4|34|0|8|0|10|0|0",
+	other_base = 50,
+	other = "o_material_11:13|o_material_20:26|o_material_29:39|o_drug_hp1:42|o_drug_mp1:65|e_clothes004:70|e_head004:75|e_pen004:80|e_sword004:85|e_pants004:90|o_mission519:95|o_mission517:100",
+	butt = "15|9|20",
+	icon = 2913,
+	NpcMove = 2913,
+	s20_icon = 2813,--缩减版本怪物图片ID
+	s20_NpcMove = 2813,--缩减版本怪物动作ID
+}

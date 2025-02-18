@@ -1,0 +1,22 @@
+MAPINFO={
+name="村庄",
+map="map110",
+mapa="map110a",
+markx= 308,		
+marky= 345,		
+RoomID= "lu_tycz",
+fight=-20,
+diesend="lu_changqmk",
+AreaAndMusic = "2_2",
+stall= 0,
+occupy= 0,
+toworld= 0,
+dieloss= 0,
+isopen=0,
+firstmap="lu_tycz",
+maptype = 3,
+diebackmap = "lu_changqmk",
+keeptime = 10,
+mancnt = 40,
+}
+door(1,"lu_luoshuicun","结束体验", 528, 464,186,259,1);

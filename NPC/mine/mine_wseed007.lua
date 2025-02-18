@@ -1,0 +1,17 @@
+NPCINFO = {
+name="³µÇ°²Ý",
+butt="0|0|32",
+isboss = 2,
+serial= "956" ,
+icon= 10506,
+NpcMove= 10506, 
+iconaddr= 1, 
+maxnum=6,
+booty= "o_material_38|o_material_38|o_material_39|o_material_40|o_drug_hp3|o_mission153",
+getrate= 70,
+bootyrate="10|25|50|85|96|100",
+gettime= 1,
+getlevel= 5,
+candig=1,
+act=1,
+}

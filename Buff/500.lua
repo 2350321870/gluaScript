@@ -1,0 +1,15 @@
+BUFFINFO={
+id=500,
+icon=64,
+name="昏睡",
+shoot=100,
+victimsay="您已经被@A击中,昏睡过去.", 
+mesay="您已经成功集中@B并让其昏睡过去.", 
+control=0,
+dieclear=1,
+}
+BUFFEFFECT={
+time_last="10|10|10|10|10|11|12|13",
+immune="431|432|421|424|426|427|443|444",
+relieve="421|424",
+}

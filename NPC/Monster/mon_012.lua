@@ -1,0 +1,27 @@
+NPCINFO = {
+	name = "天师教徒",
+	name_color = "CEFFCE",
+	serial = "012",
+	level = 16,
+	hp = 700,
+	attack = 50,
+	attack_type =2,--0:正常 1:飞镖  2:闪电
+	chase_dis =80,
+	att_dis =44,
+	move_speed = 2,
+	att_frep = 2500,
+	win_exp = 520,
+	rand = 1,
+	base_rand=8,
+	gold_base = 55,
+	win_money = 62,
+	item_base = 0,
+	item = "4|5|1|8|8|2|4|0|0|3|5|0|4|4|34|0|8|0|10|0|0",
+	other_base = 45,
+	other = "o_material_11:13|o_material_20:26|o_material_29:39|o_drug_hp1:42|o_drug_mp1:65|o_mission519:70|o_mission517:75|e_pen004:80|e_sword005:85|e_pants005:90|e_falchion005:95|e_shoes005:100",
+	butt = "10|12|46",
+	icon = 2940,
+	NpcMove = 2940,
+	s20_icon = 2840,--缩减版本怪物图片ID
+	s20_NpcMove = 2840,--缩减版本怪物动作ID
+}

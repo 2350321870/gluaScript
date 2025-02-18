@@ -1,0 +1,27 @@
+NPCINFO = {
+	name = "绿石人",
+	name_color = "CEFFCE",
+	serial = "037",
+	level = 47,
+	hp = 2580,
+	attack = 230,
+	attack_type =2,--0:正常 1:飞镖  2:闪电
+	chase_dis = 50,
+	att_dis = 40,
+	move_speed = 3,
+	att_frep = 2600,
+	win_exp = 1390,
+	rand = 1,
+	base_rand=15,
+	gold_base = 58,
+	win_money = 197,
+	item_base = 0,
+	item = "3|3|0|4|4|4|4|4|4|4|5|0|0|0|40|0|21|0|0|0|0",
+	other_base = 42,
+	other = "o_material_12:15|o_material_21:30|o_material_30:45|o_drug_hp2:70|e_necklace008:80|e_sword016:100",
+	butt = "10|10|43",
+	icon = 2952,
+	NpcMove = 2952,
+	s20_icon = 2852,--缩减版本怪物图片ID
+	s20_NpcMove = 2852,--缩减版本怪物动作ID
+}

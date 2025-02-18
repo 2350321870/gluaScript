@@ -1,0 +1,23 @@
+MAPINFO={
+name="ÀÞÌ¨",
+map="map084",
+mapa="map084a",
+NPCMax=1,
+markx= 123,		
+marky= 99,		
+RoomID= "lu_pk02",
+fight=-20,
+diesend="lu_pk02",
+stall= 0,
+occupy= 0,
+dieloss= 1,
+level=3,
+firstmap="lu_pk02",
+maptype = 3,
+diebackmap = "lu_jkc",
+keeptime = 60,
+mancnt =40,
+noRide = 1,
+nozb=0,
+}
+addnpc("pk",54,76);

@@ -1,0 +1,27 @@
+NPCINFO = {
+	name = "蟾卒",
+	name_color = "CEFFCE",
+	serial = "040",
+	level = 52,
+	hp = 2855,
+	attack = 320,
+	attack_type =2,--0:正常 1:飞镖  2:闪电
+	chase_dis = 20,
+	att_dis =30,
+	move_speed = 3,
+	att_frep = 2500,
+	win_exp = 1650,
+	rand = 1,
+	base_rand=15,
+	gold_base = 49,
+	win_money = 204,
+	item_base = 0,
+	item = "3|3|0|4|4|4|4|4|4|4|5|0|0|0|40|0|21|0|0|0|0",
+	other_base = 51,
+	other = "o_material_12:15|o_material_21:30|o_material_30:45|o_drug_hp2:70|o_drug_mp2:80|e_knife008:90|e_head018:100",
+	butt = "10|10|50",
+	icon = 2943,
+	NpcMove = 2943,
+	s20_icon = 2843,--缩减版本怪物图片ID
+	s20_NpcMove = 2843,--缩减版本怪物动作ID
+}

@@ -1,0 +1,25 @@
+MAPINFO={
+name="初级种植场2",
+map="map086",
+mapa="map086a",
+markx= 553,
+marky= 355,
+NPCMax=1,
+RoomID= "lu_plant01_2",
+fight=-20,
+diesend="lu_zongmiao",
+stall= 0,
+occupy= 0,
+toworld= 0,
+dieloss= 10,
+level=3,
+planted=1,
+plant_pmax=1,
+reftype=1,
+firstmap="lu_plant01_2",
+--maptype = 1,
+--diebackmap = "lu_jkc",
+--keeptime = 20,
+}
+door(1,"lu_jkcn","建康城南",587,367,220,200,1);
+addmine(1,-100,-100,"mine_wseed001",70,3600);

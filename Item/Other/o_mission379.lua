@@ -1,0 +1,7 @@
+ITEMINFO = {
+	list_icon = 37,
+	name = "’‰÷È",
+	is_other_item = 1,
+	description = "≈‹…ÃŒÔ∆∑",
+}
+

@@ -1,0 +1,26 @@
+NPCINFO = {
+	name = "青牙虫",
+	name_color = "CEFFCE",
+	serial = "006",
+	level = 10,
+	hp = 1000,
+	attack = 25,
+	chase_dis = 55,
+	att_dis = 40,
+	move_speed = 4,
+	att_frep = 2500,
+	win_exp =300,
+	rand = 1,
+	base_rand=6,
+	gold_base = 67,
+	win_money = 33,
+	item_base = 0,
+	item = "3|3|0|4|4|4|4|4|4|4|5|0|0|0|40|0|21|0|0|0|0",
+	other_base = 33,
+	other = "o_material_11:13|o_material_20:26|o_material_29:39|o_drug_hp1:42|o_drug_mp1:65|e_clothes002:70|e_head002:75|e_pen002:80|e_sword002:85|e_pants002:90|e_falchion002:95|e_shoes002:100",
+	butt = "10|10|22",
+	icon = 2960,
+	NpcMove = 2960,
+	s20_icon = 2860,--缩减版本怪物图片ID
+	s20_NpcMove = 2860,--缩减版本怪物动作ID
+}

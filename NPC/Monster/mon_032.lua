@@ -1,0 +1,26 @@
+NPCINFO = {
+	name = "÷¼÷Ã",
+	name_color = "CEFFCE",
+	serial = "032",
+	level = 38,
+	hp = 2270,
+	attack = 170,
+	chase_dis = 60,
+	att_dis =15,
+	move_speed = 1,
+	att_frep = 3100,
+	win_exp = 1120,
+	rand = 1,
+	base_rand=15,
+	gold_base = 39,
+	win_money = 118,
+	item_base = 0,
+	item = "3|3|0|4|4|4|4|4|4|4|5|0|0|0|40|0|21|0|0|0|0",
+	other_base = 61,
+	other = "o_material_12:15|o_material_21:30|o_material_30:45|o_drug_hp2:70|o_drug_mp2:80|e_shield005:90|e_pen006:100",
+	butt = "10|10|50",
+	icon = 2928,
+	NpcMove = 2928,
+	s20_icon = 2828,--Ëõ¼õ°æ±¾¹ÖÎïÍ¼Æ¬ID
+	s20_NpcMove = 2828,--Ëõ¼õ°æ±¾¹ÖÎï¶¯×÷ID
+}

@@ -1,0 +1,26 @@
+NPCINFO = {
+	name = "北府锤兵",
+	name_color = "CEFFCE",
+	serial = "016",
+	level = 19,
+	hp =1050,
+	attack = 55,
+	chase_dis = 35,
+	att_dis = 20,
+	move_speed = 4,
+	att_frep = 2800,
+	win_exp = 590,
+	rand = 1,
+	base_rand=8,
+	gold_base = 55,
+	win_money = 65,
+	item_base = 0,
+	item = "4|5|1|8|8|2|4|0|0|3|5|0|4|4|34|0|8|0|10|0|0",
+	other_base = 45,
+	other = "o_material_11:13|o_material_20:26|o_material_29:39|o_drug_hp2:42|o_drug_mp2:65|e_clothes005:70|e_head005:75|e_pen005:80|e_sword005:85|e_pants005:90|e_falchion005:95|e_shoes005:100",
+	butt = "16|15|45",
+	icon = 2918,
+	NpcMove = 2918,
+	s20_icon = 2818,--缩减版本怪物图片ID
+	s20_NpcMove = 2818,--缩减版本怪物动作ID
+}

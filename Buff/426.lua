@@ -1,0 +1,9 @@
+BUFFINFO={
+id=426,
+name="ÎüÑª",
+shoot=50,
+dieclear=1,
+}
+BUFFEFFECT={
+hp_stolen="20|25|30|35|40|45|50|55|60",
+}

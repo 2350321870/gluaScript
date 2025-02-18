@@ -1,0 +1,14 @@
+BUFFINFO={
+id=444,
+icon=76,
+name="点穴",
+shoot=100,
+victimsay="@A对你使用了封魔,让你无法再使用技能.", 
+mesay="你已经点中了@B的穴位,让他无法再使用技能.", 
+nocast=1, 
+dieclear=1,
+}
+BUFFEFFECT={
+time_last="12|15|18|21|24|27|30|33|36",
+immune="432|443|444",
+}

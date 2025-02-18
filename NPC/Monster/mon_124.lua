@@ -1,0 +1,26 @@
+NPCINFO = {
+	name = "打手",
+	name_color = "CEFFCE",
+	serial = "124",
+	level = 56,
+	hp = 3650,
+	attack = 310,
+	chase_dis = 40,
+	att_dis = 49,
+	move_speed = 4,
+	att_frep = 2200,
+	win_exp = 1620,
+	rand = 1,
+	base_rand=28,
+	gold_base = 20,
+	win_money = 60,
+	item_base = 20,
+	item = "2|5|5|7|6|8|1|4|6|5|1|0|1|2|36|0|1|0|8|2|0",
+	other_base = 60,
+	other = "o_drug_hp3:40|o_drug_mp3:100",
+	butt = "20|8|32",
+	icon = 2921,
+	NpcMove = 2921,
+	s20_icon = 2821,--缩减版本怪物图片ID
+	s20_NpcMove = 2821,--缩减版本怪物动作ID
+}

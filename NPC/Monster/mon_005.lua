@@ -1,0 +1,27 @@
+NPCINFO = {
+	name = "灰熊",
+	name_color = "CEFFCE",
+	serial = "005",
+	level = 5,
+	hp =160,
+	attack = 25,
+	attack_type = 0,--0:正常 1:飞镖  2:闪电
+	chase_dis = 45,
+	att_dis = 20,
+	move_speed = 1,
+	att_frep = 3500,
+	win_exp = 150,
+	rand = 1,
+	base_rand=5,
+	gold_base = 60,
+	win_money = 21,
+	item_base = 0,
+	item = "3|3|0|4|4|4|4|4|4|4|5|0|0|0|40|0|21|0|0|0|0",
+	other_base = 40,
+	other = "o_material_11:13|o_material_20:26|o_material_29:39|o_drug_hp1:42|o_drug_mp1:65|e_clothes002:70|e_head002:75|e_pen002:80|e_sword002:85|e_pants002:90|e_falchion002:95|e_shoes002:100",
+	butt = "14|7|20",
+	icon = 2910,
+	NpcMove = 2910,
+	s20_icon = 2810,--缩减版本怪物图片ID
+	s20_NpcMove = 2810,--缩减版本怪物动作ID
+}

@@ -1,0 +1,27 @@
+NPCINFO = {
+	name = "龙兵",
+	name_color = "CEFFCE",
+	serial = "039",
+	level = 51,
+	hp = 2800,
+	attack = 315,
+	attack_type =1,--0:正常 1:飞镖  2:闪电
+	chase_dis = 55,
+	att_dis = 61,
+	move_speed = 4,
+	att_frep = 2500,
+	win_exp = 1620,
+	rand = 1,
+	base_rand=15,
+	gold_base = 59,
+	win_money = 164,
+	item_base = 0,
+	item = "3|3|0|4|4|4|4|4|4|4|5|0|0|0|40|0|21|0|0|0|0",
+	other_base = 41,
+	other = "o_material_12:15|o_material_21:30|o_material_30:45|o_drug_hp2:70|o_drug_mp2:80|e_pants017:90|e_necklace007:100",
+	butt = "10|10|53",
+	icon = 2951,
+	NpcMove = 2951,
+	s20_icon = 2851,--缩减版本怪物图片ID
+	s20_NpcMove = 2851,--缩减版本怪物动作ID
+}

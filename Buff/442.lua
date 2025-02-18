@@ -1,0 +1,10 @@
+BUFFINFO={
+id=442,
+icon=80,
+name="Œ¥”√",
+shoot=100,
+mesay="Œ¥”√", 
+dieclear=1,
+}
+BUFFEFFECT={
+}

@@ -1,0 +1,11 @@
+BUFFINFO={
+id=562,
+icon=79,
+name="净化",
+shoot=100,
+bufftype=2,	
+}
+BUFFEFFECT={
+relieve="503",
+--time_last="60|60|60|60|60|60|60|60|60",
+}

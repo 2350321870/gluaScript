@@ -1,0 +1,27 @@
+NPCINFO = {                        
+	name = "刺魔",                    
+	name_color = "CEFFCE",
+	serial = "137",
+	level = 65,
+	hp = 85000,
+	attack = 660,
+	chase_dis = 85,
+	att_dis = 35,  
+	move_speed = 3,
+	attack_type = 0,
+	att_frep = 1500,
+	win_exp = 28000,
+	rand = 3,
+        base_rand=4,
+	gold_base = 50,
+	win_money = 500,
+	item_base = 30,
+	item = "3|3|0|4|4|4|4|4|4|4|5|0|0|0|40|0|21|0|0|0|0",
+	other_base = 20,
+	other = "o_material_12:33|o_material_21:66|o_material_30:100",
+	butt = "16|7|50",
+	icon = 2966,
+	NpcMove = 2966,
+	s20_icon = 2866,--缩减版本怪物图片ID
+	s20_NpcMove = 2866,--缩减版本怪物动作ID
+}

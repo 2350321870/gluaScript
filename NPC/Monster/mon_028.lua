@@ -1,0 +1,27 @@
+NPCINFO = {
+	name = "嚎兽",
+	name_color = "CEFFCE",
+	serial = "028",
+	level = 32,
+	hp = 1850,
+	attack = 155,
+	attack_type = 0,--0:正常 1:飞镖  2:闪电
+	chase_dis = 55,
+	att_dis =34,
+	move_speed = 3,
+	att_frep =2500,
+	win_exp = 1050,
+	rand = 1,
+	base_rand=15,
+	gold_base = 50,
+	win_money = 131,
+	item_base = 0,
+	item = "3|3|0|4|4|4|4|4|4|4|5|0|0|0|40|0|21|0|0|0|0",
+	other_base = 50,
+	other = "o_material_12:15|o_material_21:30|o_material_30:45|o_drug_hp2:70|o_drug_mp2:80|e_earring003:90|e_falchion007:100",
+	butt = "10|10|35",
+	icon = 2967,
+	NpcMove = 2967,
+	s20_icon = 2867,--缩减版本怪物图片ID
+	s20_NpcMove = 2867,--缩减版本怪物动作ID
+}

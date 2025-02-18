@@ -1,0 +1,14 @@
+ITEMINFO = {
+	list_icon = 59,--------道具图标
+	type = "glove",---------类型
+	wield_position = 7,--------装备位
+	is_bag_item = 1,--------普通背包
+	name = "云海【+9】",--
+	--["required/level"] = 20,
+	BindType = "Used_Bind",---------绑定
+	speed = 6,--速度
+	riding = 1,--类型
+	value =10019,
+	max_hp=1000,
+	defense=60,
+}

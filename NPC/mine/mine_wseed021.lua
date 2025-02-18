@@ -1,0 +1,17 @@
+NPCINFO = {
+name="雪莲",
+butt="0|0|32",
+isboss = 2,
+serial= "970" ,
+icon= 10520,
+NpcMove= 10520, 
+iconaddr= 1, 
+maxnum= 3,
+booty= "o_material_39|o_material_40|o_drug_hp2",
+getrate= 45,
+bootyrate="40|80|100",
+gettime= 1,
+getlevel= 2,
+candig=1,
+act=1,
+}

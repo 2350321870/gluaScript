@@ -1,0 +1,27 @@
+NPCINFO = {
+	name = "天师匪兵",
+	name_color = "CEFFCE",
+	serial = "011",
+	level = 15,
+	hp = 650,
+	attack =45,
+	attack_type =2,--0:正常 1:飞镖  2:闪电
+	chase_dis =20,
+	att_dis = 43,
+	move_speed = 5,
+	att_frep = 2600,
+	win_exp = 480,
+	rand = 1,
+	base_rand=8,
+	gold_base = 55,
+	win_money = 62,
+	item_base = 0,
+	item = "4|5|1|8|8|2|4|0|0|3|5|0|4|4|34|0|8|0|10|0|0",
+	other_base = 45,
+	other = "o_material_11:13|o_material_20:26|o_material_29:39|o_drug_hp1:42|o_drug_mp1:65|e_clothes005:70|e_head005:75|e_pen004:80|o_mission519:85|o_mission517:90|e_falchion005:95|e_shoes005:100",
+	butt = "10|12|50",
+	icon = 2923,
+	NpcMove = 2923,
+	s20_icon = 2823,--缩减版本怪物图片ID
+	s20_NpcMove = 2823,--缩减版本怪物动作ID
+}

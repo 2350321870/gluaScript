@@ -1,0 +1,13 @@
+BUFFINFO={
+id=429,
+icon=46,
+name="反弹",
+shoot=100,
+mesay="您成功让自己进入反弹状态,任何对您的伤害都会反噬对方.", 
+dieclear=1,
+}
+BUFFEFFECT={
+time_last="30|30|30|30|30|30|30|30|30",
+relieve="15|21|434|429",
+resist_damage="10|15|20|25|30|35|40|45|50",
+}

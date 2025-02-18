@@ -1,0 +1,13 @@
+BUFFINFO={
+id=416,
+icon=79,
+name="增加自己精准",
+shoot=100,
+mesay="您成功让自己的精准增加了很多.", 
+dieclear=1,
+}
+BUFFEFFECT={
+time_last="30|30|30|30|30|30|30|30|30",
+relieve="417",
+hit="10|15|20|25|30|35|40|45|50",
+}

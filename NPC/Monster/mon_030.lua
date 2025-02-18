@@ -1,0 +1,27 @@
+NPCINFO = {
+	name = "竹叶妖",
+	name_color = "CEFFCE",
+	serial = "030",
+	level = 34,
+	hp = 2000,
+	attack = 155,
+	attack_type =2,--0:正常 1:飞镖  2:闪电
+	chase_dis =-10,
+	att_dis =40,
+	move_speed =9,
+	att_frep = 2500,
+	win_exp = 1150,
+	rand = 1,
+	base_rand=15,
+	gold_base = 53,
+	win_money = 85,
+	item_base = 0,
+	item = "3|3|0|4|4|4|4|4|4|4|5|0|0|0|40|0|21|0|0|0|0",
+	other_base = 47,
+	other = "o_material_12:15|o_material_21:30|o_material_30:45|o_drug_hp2:70|e_earring006:80|e_fan004:90|e_sword010:100",
+	butt = "10|10|55",
+	icon = 2917,
+	NpcMove = 2917,
+	s20_icon = 2817,--缩减版本怪物图片ID
+	s20_NpcMove = 2817,--缩减版本怪物动作ID
+}

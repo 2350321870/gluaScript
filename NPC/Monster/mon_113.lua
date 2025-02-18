@@ -1,0 +1,26 @@
+NPCINFO = {
+	name = "火狼",
+	name_color = "CEFFCE",
+	serial = "113",
+	level = 33,
+	hp = 2200,
+	attack = 170,
+	chase_dis = 26,
+	att_dis = 34,
+	move_speed = 3,
+	att_frep = 2200,
+	win_exp = 1200,
+	rand = 3,
+	base_rand=25,
+	gold_base = 8,
+	win_money = 200,
+	item_base = 37,
+	item = "2|1|0|7|7|3|7|1|3|1|5|0|5|0|34|0|14|0|9|1|0",
+	other_base = 55,
+	other = "o_material_23:20|o_material_32:40|o_drug_hp2:70|o_drug_mp2:100",
+	butt = "20|8|15",
+	icon = 2722,
+	NpcMove = 2722,
+	s20_icon = 2622,--缩减版本怪物图片ID
+	s20_NpcMove = 2622,--缩减版本怪物动作ID
+}

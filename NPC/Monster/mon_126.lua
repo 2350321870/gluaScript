@@ -1,0 +1,26 @@
+NPCINFO = {
+	name = "异蛇",
+	name_color = "CEFFCE",
+	serial = "126",
+	level = 66,
+	hp = 5350,
+	attack = 485,
+	chase_dis = 40,
+	att_dis = 61,
+	move_speed = 4,
+	att_frep = 2200,
+	win_exp = 1920,
+	rand = 1,
+	base_rand=28,
+	gold_base = 20,
+	win_money = 60,
+	item_base = 20,
+	item = "2|5|5|7|6|8|1|4|6|5|1|0|1|2|36|0|1|0|8|2|0",
+	other_base = 60,
+	other = "o_drug_hp3:40|o_drug_mp3:100",
+	butt = "20|8|35",
+	icon = 2950,
+	NpcMove = 2950,
+	s20_icon = 2850,--缩减版本怪物图片ID
+	s20_NpcMove = 2850,--缩减版本怪物动作ID
+}

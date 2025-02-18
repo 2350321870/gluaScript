@@ -1,0 +1,20 @@
+MAPINFO={
+name="µÿ¿Œ",
+map="map076",
+mapa="map076a",
+NPCMax=1,
+markx= 200,		
+marky= 200,		
+RoomID= "lu_dilao",
+fight=-20,
+diesend="lu_dilao",
+AreaAndMusic = "99_9",
+stall= 0,
+occupy= 0,
+toworld= 0,
+dieloss= 0,
+level=3,
+firstmap="lu_dilao",
+nozb=0,
+}
+addnpc("yuzu",88,232); 

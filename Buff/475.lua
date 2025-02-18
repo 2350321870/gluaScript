@@ -1,0 +1,15 @@
+BUFFINFO={
+id=475,
+icon=77,
+name="灼伤",
+shoot=100,
+interval=10,
+victimsay="不好！@A已经把你烧伤！", 
+mesay="@B已经被烧伤,你可以开怀大笑了.", 
+dieclear=1,
+}
+BUFFEFFECT={
+time_last="40|50|60|70|80|90|100|110|120",
+relieve="476",
+HP="-5|-6|-7|-8|-9|-11|-13|-15|-17",
+}

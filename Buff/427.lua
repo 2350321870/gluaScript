@@ -1,0 +1,9 @@
+BUFFINFO={
+id=427,
+name="吸魔",
+shoot=100,
+dieclear=1,
+}
+BUFFEFFECT={
+mp_stolen="10|15|20|25|30|35|40|45|50",--伤害的百分比
+}

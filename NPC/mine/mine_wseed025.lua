@@ -1,0 +1,17 @@
+NPCINFO = {
+name="ÉßÝ®",
+butt="0|0|32",
+isboss = 2,
+serial= "974" ,
+icon= 10524,
+NpcMove= 10524, 
+iconaddr= 1, 
+maxnum= 5,
+booty= "o_material_38|o_material_20|o_material_21|o_drug_hp2|o_drug_mp2",
+getrate= 60,
+bootyrate="40|55|60|80|100",
+gettime= 1,
+getlevel= 3,
+candig=1,
+act=1,
+}

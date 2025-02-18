@@ -1,0 +1,27 @@
+NPCINFO = {
+	name = "氐族战士",
+	name_color = "CEFFCE",
+	serial = "027",
+	level = 30,
+	hp = 1700,
+	attack = 160,
+	attack_type =2,--0:正常 1:飞镖  2:闪电
+	chase_dis = 10,
+	att_dis = 20,
+	move_speed =5,
+	att_frep = 3000,
+	win_exp = 900,
+	rand = 1,
+	base_rand=15,
+	gold_base = 50,
+	win_money = 70,
+	item_base = 0,
+	item = "2|1|6|5|7|4|2|1|7|1|7|0|1|2|43|0|6|0|0|5|0",
+	other_base = 50,
+	other = "o_material_11:15|o_material_20:30|o_material_29:45|o_drug_hp2:60|o_drug_mp2:80|e_earring006:90|e_knife004:100",
+	butt = "10|10|55",
+	icon = 2970,
+	NpcMove = 2970,
+	s20_icon = 2870,--缩减版本怪物图片ID
+	s20_NpcMove = 2870,--缩减版本怪物动作ID
+}

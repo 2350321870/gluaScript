@@ -1,0 +1,10 @@
+BUFFINFO={
+id=425,
+name="ÉËÄ§",
+shoot=100,
+dieclear=1,
+}
+BUFFEFFECT={
+relieve="428",
+mp_stolen="1|1|1|1|1|1|1|1|1",
+}

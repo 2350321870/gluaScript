@@ -1,0 +1,26 @@
+NPCINFO = {
+	name = "竹节怪",
+	name_color = "CEFFCE",
+	serial = "029",
+	level = 34,
+	hp = 1900,
+	attack = 150,
+	chase_dis =60,
+	att_dis =49,
+	move_speed = 3,
+	att_frep = 4000,
+	win_exp = 1110,
+	rand = 1,
+	base_rand=15,
+	gold_base = 50,
+	win_money = 85,
+	item_base = 0,
+	item = "3|3|0|4|4|4|4|4|4|4|5|0|0|0|40|0|21|0|0|0|0",
+	other_base = 50,
+	other = "o_material_12:15|o_material_21:30|o_material_30:45|o_drug_hp2:70|o_drug_mp2:80|e_book004:90|e_clothes009:100",
+	butt = "10|10|44",
+	icon = 2949,
+	NpcMove = 2949,
+	s20_icon = 2849,--缩减版本怪物图片ID
+	s20_NpcMove = 2849,--缩减版本怪物动作ID
+}

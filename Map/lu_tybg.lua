@@ -1,0 +1,21 @@
+MAPINFO={
+name="雁门关",
+map="map092",
+mapa="map092a",
+markx= 268,		
+marky= 311,		
+RoomID= "lu_tybg",
+fight=-20,
+diesend="lu_changqmk",
+stall= 0,
+occupy= 0,
+toworld= 0,
+dieloss= 0,
+isopen=0,
+firstmap="lu_tybg",
+maptype = 3,
+diebackmap = "lu_changqmk",
+keeptime = 10,
+mancnt = 40,
+}
+door(1,"lu_luoshuicun","结束体验", 299, 467,186,259,2);

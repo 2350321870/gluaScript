@@ -1,0 +1,21 @@
+MAPINFO={
+name="洛邑主城",
+map="map105",
+mapa="map105a",
+markx= 510,		
+marky= 308,		
+RoomID="lu_tychengshi",
+fight=-20,
+diesend="lu_changqmk",
+AreaAndMusic = "2_2",
+stall= 0,
+occupy= 0,
+dieloss= 1,
+level=3,
+firstmap= "lu_tychengshi",
+maptype = 3,
+diebackmap = "lu_changqmk",
+keeptime = 10,
+mancnt = 40,
+}
+door(1,"lu_luoshuicun","结束体验", 362, 264,186,259,3);

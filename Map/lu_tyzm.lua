@@ -1,0 +1,22 @@
+MAPINFO={
+name="◊⁄√Ì",
+map="map109",
+mapa="map109a",
+markx= 289,		
+marky= 251,		
+RoomID= "lu_tyzm",
+fight=-20,
+diesend="lu_changqmk",
+AreaAndMusic = "2_2",
+stall= 0,
+occupy= 0,
+toworld= 0,
+dieloss= 0,
+isopen=0,
+firstmap="lu_tyzm",
+maptype = 3,
+diebackmap = "lu_changqmk",
+keeptime = 10,
+mancnt = 40,
+}
+door(1,"lu_luoshuicun","Ω· ¯ÃÂ—È", 396,310,186,259,1);

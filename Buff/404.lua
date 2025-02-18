@@ -1,0 +1,14 @@
+BUFFINFO={
+id=404,
+icon=58,
+name="降防",
+shoot=100,
+victimsay="@A让您的防御降低了很多.", 
+mesay="您成功让@B的防御降低了很多.", 
+dieclear=1,
+}
+BUFFEFFECT={
+time_last="30|30|30|30|30|30|30|30|30",
+immune="404",
+def="-10|-15|-20|-25|-30|-35|-40|-45|-50",
+}

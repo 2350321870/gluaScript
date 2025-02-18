@@ -1,0 +1,15 @@
+BUFFINFO={
+id=415,
+icon=54,
+name="降低对象攻击速度",
+shoot=100,
+victimsay="@A让您的攻击速度降低了很多.", 
+mesay="您成功让@B的攻击速度降低了很多.", 
+dieclear=1,
+}
+BUFFEFFECT={
+time_last="15|20|25|30|35|40|45|50|55",
+immune="415",
+relieve="414",
+att_speed="5|10|15|20|25|30|35|40|45",
+}

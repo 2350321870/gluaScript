@@ -1,0 +1,16 @@
+BUFFINFO={
+id=474,
+icon=58,
+name="流血",
+shoot=100,
+interval=10,
+victimsay="不好！@A已经让你持续流血！", 
+mesay="@B已经持续流血,你可以开怀大笑了.", 
+dieclear=1,
+bufftype=2,
+}
+BUFFEFFECT={
+time_last="40|50|60|70|80|90|100|110|120",
+relieve="428",--解除魔法盾效果
+HP="-5|-6|-7|-8|-9|-10|-11|-13|-15",
+}

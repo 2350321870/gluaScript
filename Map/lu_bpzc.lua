@@ -1,0 +1,17 @@
+MAPINFO={
+name="Ð£³¡",
+map="map047",
+mapa="map047a",
+NPCMax=1,
+markx= 200,		
+marky= 200,		
+RoomID= "lu_bpzc",
+fight=-20,
+diesend="None",
+stall= 0,
+occupy= 0,
+dieloss= 1,
+firstmap="lu_bpzc",
+maptype= 200,
+nozb=0,
+}

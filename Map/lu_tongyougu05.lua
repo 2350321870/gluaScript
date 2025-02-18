@@ -1,0 +1,25 @@
+MAPINFO={
+name="通幽谷(60~69)",
+map="map070",
+mapa="map070a",
+MonMax=15,
+markx= 66,		
+marky= 341,		
+RoomID= "lu_tongyougu05",
+fight=-20,
+diesend="lu_jkc",
+stall= 0,
+occupy= 0,
+toworld= 0,
+dieloss= 1,
+level=3,
+isopen=0,
+firstmap="lu_tongyougu05",
+maptype = 3,
+diebackmap = "lu_jkc",
+keeptime = 60,
+mancnt = 40,
+nozb=0,
+}
+door(1,"lu_jkc","离开副本", 188, 39,220,200,0);
+addxtarp(1,82,280,18,1,"mon_121:14","2962","72,337 137,337 222,324 230,295 275,221 173,233 141,235 64,256 190,204 101,158 167,149 139,226 244,204 130,279");

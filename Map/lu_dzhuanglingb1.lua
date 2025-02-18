@@ -1,0 +1,25 @@
+MAPINFO={
+name="¥Û÷‹ª ¡Í(71~80)[1]",
+map="map087",
+mapa="map087a",
+markx= 656,		
+marky= 154,	
+MonMax=35,
+RoomID= "lu_dzhuanglingb1",
+AreaAndMusic = "2_12",
+fight=-20,
+diesend="lu_jkc",
+diebackmap = "lu_jkc",
+stall= 0,
+nozb=0,
+monflush=1,
+occupy= 0,
+dieloss= 0,
+firstmap="lu_dzhuanglingb",
+maptype = 3,
+keeptime = 60,
+hinttime=30,
+mancnt = 40,
+}
+door(1,"lu_jkc","¿Îø™", 714,162,220,200,1);
+addxtarp(1,264,480,18,7,"mon_138:4 mon_139:4 mon_140:4 mon_141:5 mon_142:5 mon_143:6 mon_144:6","2926 2995 2943 2942 2947 2940 2980","320,149 392,134 420,204 464,99 320,149 392,134 420,204 464,99 320,149 392,134 420,204 464,99 320,149 392,134 420,204 464,99 510,210 320,149 392,134 420,204 464,99 510,210 320,149 392,134 420,204 464,99 510,210 574,89 320,149 392,134 420,204 464,99 510,210 574,89");

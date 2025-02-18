@@ -1,0 +1,26 @@
+NPCINFO = {
+	name = "恶霸",
+	name_color = "CEFFCE",
+	serial = "123",
+	level = 54,
+	hp = 3500,
+	attack = 295,
+	chase_dis = 40,
+	att_dis = 48,
+	move_speed = 4,
+	att_frep = 2200,
+	win_exp = 1560,
+	rand = 1,
+	base_rand=28,
+	gold_base = 20,
+	win_money = 60,
+	item_base = 20,
+	item = "2|5|5|7|6|8|1|4|6|5|1|0|1|2|36|0|1|0|8|2|0",
+	other_base = 60,
+	other = "o_drug_hp3:40|o_drug_mp3:100",
+	butt = "20|8|32",
+	icon = 2929,
+	NpcMove = 2929,
+	s20_icon = 2829,--缩减版本怪物图片ID
+	s20_NpcMove = 2829,--缩减版本怪物动作ID
+}

@@ -1,0 +1,11 @@
+BUFFINFO={
+id=430,
+icon=76,
+name="隐身",
+shoot=100,
+mesay="您进入了隐身状态,您的任何行动都会无影无形.", 
+dieclear=1,
+}
+BUFFEFFECT={
+hide="||||||||",
+}

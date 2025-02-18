@@ -1,0 +1,27 @@
+NPCINFO = {
+	name = "邪灵",
+	name_color = "CEFFCE",
+	serial = "180",
+	level = 35,
+	hp = 3000,
+	attack = 150,
+	attack_type = 2,--0:正常 1:飞镖  2:闪电
+	chase_dis = 100,
+	att_dis = 67,
+	move_speed = 5,
+	att_frep = 3000,
+	win_exp = 1050,
+	rand = 1,
+        base_rand=4,
+	gold_base = 40,
+	win_money = 10,
+	item_base = 0,
+	item = "3|3|0|4|4|4|4|4|4|4|5|0|0|0|40|0|21|0|0|0|0",    --12坐骑 13项链 14耳环  16状态道具 18传送类  21宠物   不掉落
+	other_base = 60,
+	other = "o_material_11:13|o_material_20:26|o_material_29:39|o_drug_hp1:42|o_drug_mp1:65|e_clothes001:70|e_head001:75|e_pen001:80|e_sword001:85|e_pants001:90|e_falchion001:95|e_shoes001:100",
+	butt = "16|7|43",
+	icon = 2974,
+	NpcMove = 2974,
+	s20_icon = 2874,--缩减版本怪物图片ID
+	s20_NpcMove = 2874,--缩减版本怪物动作ID
+}

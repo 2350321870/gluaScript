@@ -1,0 +1,26 @@
+NPCINFO = {
+	name = "噬龙",
+	name_color = "CEFFCE",
+	serial = "031",
+	level = 36,
+	hp = 2100,
+	attack = 140,
+	chase_dis = 35,
+	att_dis = 40,
+	move_speed =4,
+	att_frep = 2600,
+	win_exp = 1150,
+	rand = 1,
+	base_rand=15,
+	gold_base = 60,
+	win_money = 118,
+	item_base = 0,
+	item = "3|3|0|4|4|4|4|4|4|4|5|0|0|0|40|0|21|0|0|0|0",
+	other_base = 40,
+	other = "o_material_12:15|o_material_21:30|o_material_30:45|o_drug_hp2:70|o_drug_mp2:80|e_pen006:90|e_shoes007:100",
+	butt = "10|10|32",
+	icon = 2937,
+	NpcMove = 2937,
+	s20_icon = 2837,--缩减版本怪物图片ID
+	s20_NpcMove = 2837,--缩减版本怪物动作ID
+}

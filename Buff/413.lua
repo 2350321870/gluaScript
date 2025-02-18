@@ -1,0 +1,15 @@
+BUFFINFO={
+id=413,
+icon=54,
+name="龟步",
+shoot=30,
+victimsay="您被@A缓速.", 
+mesay="@B被您缓速了.", 
+dieclear=1,
+}
+BUFFEFFECT={
+time_last="25|30|30|35|35|40|40|45|45",
+immune="413",
+relieve="433",
+move_speed="-2000|-2000|-2000|-3000|-3000|-3000|-4000|-4000|-4000",
+}

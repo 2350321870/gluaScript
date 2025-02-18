@@ -1,0 +1,26 @@
+NPCINFO = {
+	name = "叛军士兵",
+	name_color = "CEFFCE",
+	serial = "115",
+	level = 43,
+	hp = 3200,
+	attack = 245,
+	chase_dis = 26,
+	att_dis = 44,
+	move_speed = 3,
+	att_frep = 2200,
+	win_exp = 1400,
+	rand = 1,
+	base_rand=25,
+	gold_base = 50,
+	win_money = 80,
+	item_base = 0,
+	item = "2|5|5|7|6|8|1|4|6|5|1|0|1|2|36|0|1|0|8|2|0",
+	other_base = 50,
+	other = "o_drug_hp2:50|o_drug_mp2:100",
+	butt = "10|12|50",
+	icon = 2923,
+	NpcMove = 2923,
+	s20_icon = 2823,--缩减版本怪物图片ID
+	s20_NpcMove = 2823,--缩减版本怪物动作ID
+}

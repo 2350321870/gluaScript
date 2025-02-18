@@ -1,0 +1,27 @@
+NPCINFO = {                        
+	name = "伏跃",                    
+	name_color = "CEFFCE",
+	serial = "082",
+	level = 3,
+	hp = 20,
+	attack = 5,
+	chase_dis = 75,
+	att_dis = 35,  
+	move_speed = 20,
+	attack_type = 0,
+	att_frep = 1500,
+	win_exp = 1,
+	rand = 1,
+        base_rand=100,
+	gold_base = 98,
+	win_money = 1,
+	item_base = 1,
+	item = "3|1|8|6|5|1|5|2|1|4|2|0|3|1|32|0|11|0|10|4|0",
+	other_base = 1,
+	other = "o_drug_hp1:50|o_drug_mp1:100",
+	butt = "16|7|20",
+	icon = 2702,
+	NpcMove = 2702,
+	s20_icon = 2602,--缩减版本怪物图片ID
+	s20_NpcMove = 2602,--缩减版本怪物动作ID
+}

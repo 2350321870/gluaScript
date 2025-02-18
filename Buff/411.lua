@@ -1,0 +1,11 @@
+BUFFINFO={
+id=411,
+name="额外伤害",
+shoot=30,
+victimsay="@A无与伦比的攻击对您造成了二次伤害.", 
+mesay="@B被您无与伦比的攻击击中,造成了二次伤害.", 
+dieclear=1,
+}
+BUFFEFFECT={
+extraly_damage="15|20|25|30|35|40|45|50|55",
+}

@@ -1,0 +1,26 @@
+NPCINFO = {
+	name = "巨蹄",
+	name_color = "CEFFCE",
+	serial = "048",
+	level = 57,
+	hp = 3500,
+	attack = 360,
+	chase_dis = 65,
+	att_dis = 35,
+	move_speed = 4,
+	att_frep = 2500,
+	win_exp = 1800,
+	rand = 1,
+	base_rand=15,
+	gold_base = 47,
+	win_money = 283,
+	item_base = 0,
+	item = "2|1|6|5|7|4|2|1|7|1|7|0|1|2|43|0|6|0|0|5|0",
+	other_base = 53,
+	other = "o_material_12:15|o_material_21:30|o_material_30:45|o_drug_hp2:70|o_drug_mp2:80|e_falchion017:90|e_earring010:100",
+	butt = "10|10|40",
+	icon = 2924,
+	NpcMove = 2924,
+	s20_icon = 2824,--缩减版本怪物图片ID
+	s20_NpcMove = 2824,--缩减版本怪物动作ID
+}

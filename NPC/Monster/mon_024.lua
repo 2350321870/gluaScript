@@ -1,0 +1,27 @@
+NPCINFO = {
+	name = "碧水蛟",
+	name_color = "CEFFCE",
+	serial = "024",
+	level = 29,
+	hp = 1400,
+	attack = 120,
+	attack_type =2,--0:正常 1:飞镖  2:闪电
+	chase_dis = 65,
+	att_dis = 48,
+	move_speed = 6,
+	att_frep = 2500,
+	win_exp = 860,
+	rand = 1,
+	base_rand=9,
+	gold_base = 55,
+	win_money = 70,
+	item_base = 0,
+	item = "2|1|6|5|7|4|2|1|7|1|7|0|1|2|43|0|6|0|0|5|0",
+	other_base = 45,
+	other = "o_material_11:13|o_material_20:26|o_material_29:39|o_drug_hp2:42|o_drug_mp2:65|e_clothes009:70|e_head009:75|e_pen005:80|e_sword008:85|e_pants009:90|e_falchion008:95|e_necklace005:100",
+	butt = "10|10|48",
+	icon = 2950,
+	NpcMove = 2950,
+	s20_icon = 2850,--缩减版本怪物图片ID
+	s20_NpcMove = 2850,--缩减版本怪物动作ID
+}

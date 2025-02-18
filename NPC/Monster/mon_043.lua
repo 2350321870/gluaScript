@@ -1,0 +1,26 @@
+NPCINFO = {
+	name = "蝠灵",
+	name_color = "CEFFCE",
+	serial = "043",
+	level = 55,
+	hp = 3100,
+	attack = 355,
+	chase_dis = 60,
+	att_dis = 31,
+	move_speed = 4,
+	att_frep = 2500,
+	win_exp = 1740,
+	rand = 1,
+	base_rand=15,
+	gold_base = 53,
+	win_money = 243,
+	item_base = 0,
+	item = "3|3|0|4|4|4|4|4|4|4|5|0|0|0|40|0|21|0|0|0|0",
+	other_base = 47,
+	other = "o_material_12:15|o_material_21:30|o_material_30:45|o_drug_hp2:70|o_drug_mp2:80|e_earring009:100",
+	butt = "10|10|48",
+	icon = 2955,
+	NpcMove = 2955,
+	s20_icon = 2855,--缩减版本怪物图片ID
+	s20_NpcMove = 2855,--缩减版本怪物动作ID
+}

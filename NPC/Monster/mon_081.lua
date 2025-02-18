@@ -1,0 +1,27 @@
+NPCINFO = {
+	name = "炎蛛",
+	name_color = "CEFFCE",
+	serial = "081",
+	level = 3,
+	hp = 20,
+	attack = 5,
+	chase_dis = 45,
+	att_dis = 30,  
+	move_speed = 5,
+	attack_type = 0,
+	att_frep = 2000,
+	win_exp = 1,
+	rand = 1,
+        base_rand=100,
+	gold_base = 98,
+	win_money = 1,
+	item_base = 1,
+	item = "3|1|8|6|5|1|5|2|1|4|2|0|3|1|32|0|11|0|10|4|0",
+	other_base = 1,
+	other = "o_drug_hp1:50|o_drug_mp1:100",
+	butt = "16|7|20",
+	icon = 2707,
+	NpcMove = 2707,
+	s20_icon = 2607,--缩减版本怪物图片ID
+	s20_NpcMove = 2607,--缩减版本怪物动作ID
+}

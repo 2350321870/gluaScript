@@ -1,0 +1,27 @@
+NPCINFO = {
+	name = "幼貂",
+	name_color = "CEFFCE",
+	serial = "008",
+	level = 12,
+	hp = 550,
+	attack =30,
+	attack_type = 2,--0:正常 1:飞镖  2:闪电
+	chase_dis = 65,
+	att_dis =30,
+	move_speed = 3,
+	att_frep = 5500,
+	win_exp = 450,
+	rand = 1,
+	base_rand=7,
+	gold_base = 50,
+	win_money = 60,
+	item_base = 0,
+	item = "4|5|1|8|8|2|4|0|0|3|5|0|4|4|34|0|8|0|10|0|0",
+	other_base = 50,
+	other = "o_material_11:13|o_material_20:26|o_material_29:39|o_drug_hp1:42|o_drug_mp1:65|e_clothes004:70|e_head004:75|e_pen004:80|e_sword004:85|e_pants004:90|o_mission519:95|o_mission517:100",
+	butt = "15|9|25",
+	icon = 2915,
+	NpcMove = 2915,
+	s20_icon = 2815,--缩减版本怪物图片ID
+	s20_NpcMove = 2815,--缩减版本怪物动作ID
+}

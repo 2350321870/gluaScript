@@ -1,0 +1,27 @@
+NPCINFO = {
+	name = "氐族哨兵",
+	name_color = "CEFFCE",
+	serial = "025",
+	level = 32,
+	hp = 1550,
+	attack = 139,
+	attack_type = 2,--0:正常 1:飞镖  2:闪电
+	chase_dis =-10,
+	att_dis = 50,
+	move_speed =6,
+	att_frep = 2500,
+	win_exp = 1050,
+	rand = 1,
+	base_rand=15,
+	gold_base = 34,
+	win_money = 80,
+	item_base = 0,
+	item = "3|3|0|4|4|4|4|4|4|4|5|0|0|0|40|0|21|0|0|0|0",
+	other_base = 66,
+	other = "o_material_12:15|o_material_21:30|o_material_30:45|o_drug_hp2:70|o_drug_mp2:100",
+	butt = "10|10|49",
+	icon = 2968,
+	NpcMove = 2968,
+	s20_icon = 2868,--缩减版本怪物图片ID
+	s20_NpcMove = 2868,--缩减版本怪物动作ID
+}
